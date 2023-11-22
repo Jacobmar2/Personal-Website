@@ -10,9 +10,9 @@ My home page contains a short bio of myself with a profile picture, as well as 3
 
 My resume page contains a scroll box with a pdf of my resume
 
-My projects page showcases the projects I worked on
+My projects page showcases the projects I worked on, with a hyperlink to the corresponding GitHub repo's.
 
-My interests page simply shows the 3 images that I have a great interest in, which are the same as the 3 home page bottom images
+My interests page simply shows the 3 images that I have a great interest in, which are the same as the 3 home page bottom images. The images themselves are also buttons that links to SFU's computing science page, TransLink, and a random cat channel.
 
 My personal website works best with a screen width of 1920 pixels.
 
